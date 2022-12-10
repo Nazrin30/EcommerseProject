@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EcommerseProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_register1">Üye Ol/Giriş Yap</string>
+    <string name="login_register2">fırsatları kaçırma!</string>
+    <string name="super_firsatlar">Süper Firsatlar</string>
+    <string name="see_all">Tümünü gör > </string>
+
+</resources>
